@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import FirstCard from "./components/FirstCard";
-import Cloth from "./components/Cloth";
+
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
 
     <FirstCard />
 
-    <Cloth />
+    
     </div>
   );
 }
